@@ -9,7 +9,6 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
-
 var (
 	// randSource источник псевдо случайных чисел.
 	// Для повышения уникальности в качестве seed
